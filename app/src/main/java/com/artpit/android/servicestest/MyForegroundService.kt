@@ -58,7 +58,7 @@ class MyForegroundService() : Service() {
     }
 
     override fun onBind(intent: Intent?): IBinder? {
-        //TODO("Not yet implemented")
+        TODO("Not yet implemented")
     }
 
     private fun log(message: String) {
